@@ -31,3 +31,6 @@ Environment="INFLUX_DB=<DB>"
 WantedBy=multi-user.target
 ```
 
+
+# Reuse
+If you do reuse my work, please consider linking back to this repository 🙂
